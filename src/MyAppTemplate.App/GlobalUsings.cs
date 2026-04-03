@@ -1,0 +1,1 @@
+global using MyAppTemplate.App.ViewModels.Shared;
