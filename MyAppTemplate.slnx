@@ -1,7 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/MyAppTemplate.App/MyAppTemplate.App.csproj" />
-    <Project Path="src/MyAppTemplate.Contract/MyAppTemplate.Contract.csproj" />
-    <Project Path="src/MyAppTemplate.Data/MyAppTemplate.Data.csproj" />
-  </Folder>
-</Solution>
